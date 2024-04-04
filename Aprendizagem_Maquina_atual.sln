@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Aprendizagem_Maquina_atual", "Aprendizagem_Maquina_atual\Aprendizagem_Maquina_atual.pyproj", "{203C8807-9A1F-40C0-A226-0F87ADD2E71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{203C8807-9A1F-40C0-A226-0F87ADD2E71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203C8807-9A1F-40C0-A226-0F87ADD2E71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9244CF-F4CF-425B-AEB4-38ED6D876A71}
+	EndGlobalSection
+EndGlobal
